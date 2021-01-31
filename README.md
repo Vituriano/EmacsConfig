@@ -2,5 +2,6 @@
 My private module for doom-emacs.
 ## Install
 ```sh
-git clone https://github.com/vituriano/my-doom-emacs ~/.config/doom
+$ git clone https://github.com/vituriano/my-doom-emacs ~/.config/doom
+$ doom sync -u
 ```
